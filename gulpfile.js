@@ -49,6 +49,6 @@ gulp.task('clean', function () {
     }).pipe(clean());
 });
 
-gulp.task('default', ['index', 'scripts', 'css'], function () {
+gulp.task('default', ['scripts', 'css'], function () {
 
 });
