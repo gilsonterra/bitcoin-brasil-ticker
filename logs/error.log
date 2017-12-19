@@ -1,8 +1,0 @@
-2017/12/19 16:06:09 [error] 30245#30245: *1 directory index of "/var/www/html/bitcoin/dist/" is forbidden, client: 127.0.0.1, server: bitcoin.local, request: "GET / HTTP/1.1", host: "bitcoin.local"
-2017/12/19 16:06:48 [error] 30570#30570: *1 directory index of "/var/www/html/bitcoin/dist/" is forbidden, client: 127.0.0.1, server: bitcoin.local, request: "GET / HTTP/1.1", host: "bitcoin.local"
-2017/12/19 16:06:49 [error] 30570#30570: *1 directory index of "/var/www/html/bitcoin/dist/" is forbidden, client: 127.0.0.1, server: bitcoin.local, request: "GET / HTTP/1.1", host: "bitcoin.local"
-2017/12/19 16:06:50 [error] 30570#30570: *1 directory index of "/var/www/html/bitcoin/dist/" is forbidden, client: 127.0.0.1, server: bitcoin.local, request: "GET / HTTP/1.1", host: "bitcoin.local"
-2017/12/19 16:06:50 [error] 30570#30570: *1 directory index of "/var/www/html/bitcoin/dist/" is forbidden, client: 127.0.0.1, server: bitcoin.local, request: "GET / HTTP/1.1", host: "bitcoin.local"
-2017/12/19 16:06:50 [error] 30570#30570: *1 directory index of "/var/www/html/bitcoin/dist/" is forbidden, client: 127.0.0.1, server: bitcoin.local, request: "GET / HTTP/1.1", host: "bitcoin.local"
-2017/12/19 16:06:50 [error] 30570#30570: *1 directory index of "/var/www/html/bitcoin/dist/" is forbidden, client: 127.0.0.1, server: bitcoin.local, request: "GET / HTTP/1.1", host: "bitcoin.local"
-2017/12/19 16:06:50 [error] 30570#30570: *1 directory index of "/var/www/html/bitcoin/dist/" is forbidden, client: 127.0.0.1, server: bitcoin.local, request: "GET / HTTP/1.1", host: "bitcoin.local"
