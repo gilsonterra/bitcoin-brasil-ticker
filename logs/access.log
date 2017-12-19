@@ -22,3 +22,6 @@
 127.0.0.1 - - [19/Dec/2017:16:13:50 -0200] "GET /js/bundle.min.js HTTP/1.1" 304 0 "http://bitcoin.local/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36"
 127.0.0.1 - - [19/Dec/2017:16:13:51 -0200] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36"
 127.0.0.1 - - [19/Dec/2017:16:13:52 -0200] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36"
+127.0.0.1 - - [19/Dec/2017:16:17:02 -0200] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36"
+127.0.0.1 - - [19/Dec/2017:16:17:02 -0200] "GET /css/style.min.css HTTP/1.1" 304 0 "http://bitcoin.local/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36"
+127.0.0.1 - - [19/Dec/2017:16:17:02 -0200] "GET /js/bundle.min.js HTTP/1.1" 304 0 "http://bitcoin.local/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36"
